@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharpIntermediate", "CSharpIntermediate", "{4483FBBF-9B75-D05E-5530-6F63DFA6D97D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Section02-Class", "Section02-Class", "{1917F167-0556-2811-CAB9-2759597738D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS.UI.Models", "CSharpIntermediate\Section02-Class\CMS.UI.Models\CMS.UI.Models.csproj", "{71433C66-5C0F-AF2F-ECC2-E42C229CBAE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71433C66-5C0F-AF2F-ECC2-E42C229CBAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71433C66-5C0F-AF2F-ECC2-E42C229CBAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71433C66-5C0F-AF2F-ECC2-E42C229CBAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71433C66-5C0F-AF2F-ECC2-E42C229CBAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1917F167-0556-2811-CAB9-2759597738D2} = {4483FBBF-9B75-D05E-5530-6F63DFA6D97D}
+		{71433C66-5C0F-AF2F-ECC2-E42C229CBAE7} = {1917F167-0556-2811-CAB9-2759597738D2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FDF980D-CBEE-45CF-9C71-BB7C30B959A6}
+	EndGlobalSection
+EndGlobal
